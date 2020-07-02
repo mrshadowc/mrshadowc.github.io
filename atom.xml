@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrshadowc.github.io</id>
     <title>戏说三国</title>
-    <updated>2020-07-02T07:41:39.197Z</updated>
+    <updated>2020-07-02T07:50:14.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrshadowc.github.io"/>
     <link rel="self" href="https://mrshadowc.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://mrshadowc.github.io/images/avatar.png</logo>
     <icon>https://mrshadowc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 戏说三国</rights>
+    <entry>
+        <title type="html"><![CDATA[服务器可控生成大量NPC畅想]]></title>
+        <id>https://mrshadowc.github.io/post/fu-wu-qi-ke-kong-sheng-cheng-da-liang-npc-chang-xiang/</id>
+        <link href="https://mrshadowc.github.io/post/fu-wu-qi-ke-kong-sheng-cheng-da-liang-npc-chang-xiang/">
+        </link>
+        <updated>2020-07-02T07:42:02.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1攻城活动玩法结算积分积分换取物品的模式"><strong>1：攻城活动玩法，结算积分，积分换取物品的模式</strong></h1>
+<h1 id="2npc地图随机生成作为野外boss之类的玩法"><strong>2：NPC地图随机生成作为野外BOSS之类的玩法</strong></h1>
+<figure data-type="image" tabindex="1"><img src="https://mrshadowc.github.io/post-images/1593675782427.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杂谈-2020年07月02日]]></title>
         <id>https://mrshadowc.github.io/post/2020-nian-07-yue-02-ri/</id>
