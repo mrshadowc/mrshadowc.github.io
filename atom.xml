@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrshadowc.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-02T06:09:17.015Z</updated>
+    <title>戏说三国</title>
+    <updated>2020-07-02T06:12:44.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrshadowc.github.io"/>
     <link rel="self" href="https://mrshadowc.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>游戏背景：一名现代高中生,却被仙人挑选为结束三国乱世的英雄候选人,于是开始了一连串的冒险旅程。</subtitle>
     <logo>https://mrshadowc.github.io/images/avatar.png</logo>
     <icon>https://mrshadowc.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 戏说三国</rights>
     <entry>
         <title type="html"><![CDATA[2020年07月02日]]></title>
         <id>https://mrshadowc.github.io/post/2020-nian-07-yue-02-ri/</id>
