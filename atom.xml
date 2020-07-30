@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrshadowc.github.io</id>
     <title>戏说三国</title>
-    <updated>2020-07-15T09:00:35.032Z</updated>
+    <updated>2020-07-30T03:02:58.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrshadowc.github.io"/>
     <link rel="self" href="https://mrshadowc.github.io/atom.xml"/>
@@ -10,6 +10,61 @@
     <logo>https://mrshadowc.github.io/images/avatar.png</logo>
     <icon>https://mrshadowc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 戏说三国</rights>
+    <entry>
+        <title type="html"><![CDATA[武将洗练]]></title>
+        <id>https://mrshadowc.github.io/post/wu-jiang-xi-lian/</id>
+        <link href="https://mrshadowc.github.io/post/wu-jiang-xi-lian/">
+        </link>
+        <updated>2020-07-30T02:55:33.000Z</updated>
+        <content type="html"><![CDATA[<p>蓬莱仙岛，南斗，北斗进行洗练<br>
+未来安排：南斗和北斗分别洗不同的词条<br>
+武将词条：洗练成功后会在武将名称前加上相应的词条<br>
+词条目录如下</p>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>神力</td>
+<td>ATK+10%,HPX+50</td>
+</tr>
+<tr>
+<td>骁勇</td>
+<td>伤害+5%</td>
+</tr>
+<tr>
+<td>奇策</td>
+<td>SP+100,INT+30</td>
+</tr>
+<tr>
+<td>刚勇</td>
+<td>HPX+50,DEF+30</td>
+</tr>
+<tr>
+<td>雄气</td>
+<td>AGI+30</td>
+</tr>
+<tr>
+<td>胆气</td>
+<td>AGI+20</td>
+</tr>
+<tr>
+<td>勇武</td>
+<td>ATK+20,AGI+15</td>
+</tr>
+<tr>
+<td>壮丁</td>
+<td>HP+100,DEF+15</td>
+</tr>
+</tbody>
+</table>
+<figure data-type="image" tabindex="1"><img src="https://mrshadowc.github.io/post-images/1596077794803.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日常活动篇]]></title>
         <id>https://mrshadowc.github.io/post/ri-chang-huo-dong-pian/</id>
